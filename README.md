@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HoangGiangTruong
 - 👀 I’m interested in data analysis and especially about modelling 
-- 🌱 I’m currently learning R, SQL, Python and Taubleau
+- 🌱 I’m currently learning R, SQL, Python and Tableau
 - 📫 How to reach me: 
 - linkedIn: linkedin.com/in/giangtruong2903
 
